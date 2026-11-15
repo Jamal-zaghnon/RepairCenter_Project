@@ -6,7 +6,7 @@ using RepairCenter.Interfaces;
 
 namespace RepairCenter.Models
 {
-    // الصف الأب المجرد لجميع الأجهزة.
+    // الصف الأب المجرد لجميع الأجهزة
     public abstract class Device : IDevice
     {
         // جميع الحقول خاصة لحماية بيانات الكائن.
